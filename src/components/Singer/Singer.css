@@ -1,0 +1,16 @@
+.card{
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.card-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    
+}
+.card-body{
+    height: 400px;
+    text-align: left;
+}
